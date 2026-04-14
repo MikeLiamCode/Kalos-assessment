@@ -22,7 +22,7 @@ const config: runtime.GetPrismaClientConfig = {
       "value": "prisma-client"
     },
     "output": {
-      "value": "/Users/dev/Desktop/assess/kalos-assessment/packages/db/generated/client",
+      "value": "/Users/dev/Desktop/assess 2/kalos-assessment/packages/db/generated/client",
       "fromEnvVar": null
     },
     "config": {
@@ -36,7 +36,7 @@ const config: runtime.GetPrismaClientConfig = {
       }
     ],
     "previewFeatures": [],
-    "sourceFilePath": "/Users/dev/Desktop/assess/kalos-assessment/packages/db/prisma/schema.prisma",
+    "sourceFilePath": "/Users/dev/Desktop/assess 2/kalos-assessment/packages/db/prisma/schema.prisma",
     "isCustomOutput": true
   },
   "relativePath": "../../prisma",
